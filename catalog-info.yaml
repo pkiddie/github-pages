@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: github-pages
+  annotations:
+    github.com/project-slug: pkiddie/github-pages
+spec:
+  type: other
+  lifecycle: unknown
+  owner: foo
